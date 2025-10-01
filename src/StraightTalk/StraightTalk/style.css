@@ -1,0 +1,3548 @@
+.straight-talk {
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+.straight-talk .frame {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .join-us {
+  align-items: center;
+  align-self: stretch;
+  background-color: #000000;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .join-today-call-us {
+  align-items: center;
+  color: #ffffff;
+  display: flex;
+  flex: 1;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 24px;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.straight-talk .text-wrapper {
+  color: #ffffff;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.straight-talk .span {
+  text-decoration: underline;
+}
+
+.straight-talk .header-menu {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--global-StraightTalk_Primary);
+  display: flex;
+  flex: 0 0 auto;
+  gap: 41px;
+  padding: 24px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .screenshot {
+  height: 85px;
+  object-fit: cover;
+  position: relative;
+  width: 129px;
+}
+
+.straight-talk .div {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .frame-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .frame-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 5px;
+  position: relative;
+}
+
+.straight-talk .globe {
+  height: 12px !important;
+  position: relative !important;
+  width: 12px !important;
+}
+
+.straight-talk .text-wrapper-2 {
+  align-items: center;
+  color: #090909;
+  display: flex;
+  font-family: "Open Sans-SemiBold", Helvetica;
+  font-size: 11px;
+  font-weight: 600;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.straight-talk .frame-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 30px;
+  position: relative;
+}
+
+.straight-talk .text-wrapper-3 {
+  align-items: center;
+  color: #090909;
+  display: flex;
+  font-family: "Open Sans-Bold", Helvetica;
+  font-size: 11px;
+  font-weight: 700;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.straight-talk .icon-instance-node {
+  height: 18px !important;
+  position: relative !important;
+  width: 18px !important;
+}
+
+.straight-talk .frame-5 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  position: relative;
+}
+
+.straight-talk .text-wrapper-4 {
+  align-items: center;
+  color: var(--global-Total_Primary);
+  display: flex;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.straight-talk .chevron-down {
+  height: 17px !important;
+  position: relative !important;
+  width: 17px !important;
+}
+
+.straight-talk .background {
+  align-items: center;
+  background-color: #000000;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .div-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.straight-talk .container {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 10px;
+  position: relative;
+}
+
+.straight-talk .p {
+  align-items: center;
+  color: #f7f3f3;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 25px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.straight-talk .frame-6 {
+  align-items: stretch;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  padding: 20px;
+}
+
+.straight-talk .container-2 {
+  align-items: flex-start;
+  border-radius: 4.8px;
+  display: flex;
+  flex-direction: column;
+  min-height: 400px;
+  position: relative;
+  flex: 2;
+  width: 100%;
+}
+
+.straight-talk .iphone-pro {
+  background-image: url(./iphone-17-pro.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 20px;
+  height: 473px;
+  max-width: 796.66px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .container-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 218px;
+  left: 0;
+  padding: 35px;
+  position: absolute;
+  top: 109px;
+  width: 398px;
+}
+
+.straight-talk .div-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .text-wrapper-5 {
+  align-items: center;
+  align-self: stretch;
+  color: #ffffff;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: -0.25px;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.straight-talk .treat-yourself-to-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 15px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .treat-yourself-to {
+  align-items: center;
+  align-self: stretch;
+  color: #ffffff;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.straight-talk .link-shop-now-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -16.61px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .link-shop-now {
+  align-items: flex-start;
+  background-color: var(--global-StraightTalk_Primary);
+  border-radius: 20px;
+  box-shadow: 5px 5px 20px #00000033;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 13.44px 34.24px;
+  position: relative;
+}
+
+.straight-talk .text-wrapper-6 {
+  align-items: center;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0.75px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.straight-talk .container-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 400px;
+  position: relative;
+  flex: 1;
+  width: 100%;
+}
+
+.straight-talk .samsung-galaxy {
+  background-image: url(./samsung-galaxy-a16.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 20px;
+  height: 476px;
+  max-width: 383.33px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .container-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 32px 24px;
+  position: absolute;
+  top: -2px;
+  width: 383px;
+}
+
+.straight-talk .heading {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 9px 0px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .get-a-free-samsung {
+  align-items: center;
+  align-self: stretch;
+  color: transparent;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: -0.25px;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.straight-talk .text-wrapper-7 {
+  color: #ffffff;
+  letter-spacing: -0.08px;
+}
+
+.straight-talk .text-wrapper-8 {
+  color: #a6f442;
+  letter-spacing: -0.08px;
+}
+
+.straight-talk .overlap-group-wrapper {
+  align-self: stretch;
+  height: 48px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .overlap-group {
+  height: 49px;
+  position: relative;
+  top: -1px;
+  width: 327px;
+}
+
+.straight-talk .this-offer-is {
+  align-items: center;
+  color: #ffffff;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 48px;
+  justify-content: center;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  width: 327px;
+}
+
+.straight-talk .button {
+  all: unset;
+  align-items: flex-start;
+  box-sizing: border-box;
+  display: inline-flex;
+  left: 113px;
+  position: absolute;
+  top: 25px;
+}
+
+.straight-talk .text-wrapper-9 {
+  align-items: center;
+  color: #ffffff;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.straight-talk .link-SHOP-NOW-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 40px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .div-wrapper-2 {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #b2b2b2;
+  border-radius: 20px;
+  box-shadow: 5px 5px 20px #00000033;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 14.44px 35.24px;
+  position: relative;
+}
+
+.straight-talk .frame-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 33px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  flex-wrap: wrap;
+  padding: 0 20px;
+}
+
+.straight-talk .container-wrapper {
+  align-items: flex-start;
+  background-color: #000000;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  height: 240px;
+  padding: 0px 0px 0px 4px;
+  position: relative;
+  width: 100%;
+  flex: 1;
+}
+
+.straight-talk .container-6 {
+  align-self: stretch;
+  height: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .moto-g {
+  background-image: url(./moto-g.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 224px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 148px;
+}
+
+.straight-talk .container-7 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 165px;
+  position: absolute;
+  top: 28px;
+  width: 185px;
+}
+
+.straight-talk .div-3 {
+  align-items: center;
+  align-self: stretch;
+  color: transparent;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.straight-talk .text-wrapper-10 {
+  color: #ffffff;
+}
+
+.straight-talk .text-wrapper-11 {
+  color: #a6f43f;
+}
+
+.straight-talk .overlap-group-2 {
+  height: 49px;
+  position: relative;
+  top: -1px;
+  width: 161px;
+}
+
+.straight-talk .when-you-activate-on {
+  align-items: center;
+  color: #ffffff;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 48px;
+  justify-content: center;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  width: 161px;
+}
+
+.straight-talk .button-2 {
+  all: unset;
+  align-items: flex-start;
+  box-sizing: border-box;
+  display: inline-flex;
+  left: 96px;
+  position: absolute;
+  top: 25px;
+}
+
+.straight-talk .link-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 13px 0px 1.5px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .link {
+  height: 21.5px;
+  position: relative;
+  width: 100.79px;
+}
+
+.straight-talk .text-wrapper-12 {
+  align-items: center;
+  color: #a6f43f;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 24px;
+  justify-content: center;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -2px;
+  white-space: nowrap;
+  width: 82px;
+}
+
+.straight-talk .arrow {
+  background-image: url(./arrow.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 13px;
+  left: 88px;
+  position: absolute;
+  top: 6px;
+  width: 13px;
+}
+
+.straight-talk .st {
+  background-image: url(./st03206-homepagerefresh2-ENG-desktop.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 204px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 163px;
+}
+
+.straight-talk .container-8 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 184px;
+  position: absolute;
+  top: 25px;
+  width: 185px;
+}
+
+.straight-talk .container-9 {
+  align-self: stretch;
+  height: 44px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .text-wrapper-13 {
+  align-items: center;
+  color: #ffffff;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 20px;
+  justify-content: center;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+  width: 182px;
+}
+
+.straight-talk .overlap-group-3 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+  width: 98px;
+}
+
+.straight-talk .text-wrapper-14 {
+  align-items: center;
+  color: #ffffff;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 20px;
+  justify-content: center;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+  width: 43px;
+}
+
+.straight-talk .button-3 {
+  all: unset;
+  align-items: flex-start;
+  box-sizing: border-box;
+  display: inline-flex;
+  left: 42px;
+  position: absolute;
+  top: 0;
+}
+
+.straight-talk .interiorpage {
+  background-image: url(./st03364-interiorpage-multimonthpromo-homepage-threetilerow-130x197.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 201px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 133px;
+}
+
+.straight-talk .container-10 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 162px;
+  position: absolute;
+  top: 30px;
+  width: 185px;
+}
+
+.straight-talk .container-11 {
+  align-self: stretch;
+  height: 104px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .new-tablet-customers {
+  align-items: center;
+  color: #ffffff;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 80px;
+  justify-content: center;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: -1px;
+  width: 177px;
+}
+
+.straight-talk .overlap-group-4 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 80px;
+  width: 92px;
+}
+
+.straight-talk .text-wrapper-15 {
+  align-items: center;
+  color: #ffffff;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  height: 20px;
+  justify-content: center;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 2px;
+  white-space: nowrap;
+  width: 36px;
+}
+
+.straight-talk .button-4 {
+  all: unset;
+  align-items: flex-start;
+  box-sizing: border-box;
+  display: inline-flex;
+  left: 36px;
+  position: absolute;
+  top: 0;
+}
+
+.straight-talk .link-2 {
+  height: 21.5px;
+  position: relative;
+  width: 109.73px;
+}
+
+.straight-talk .text-wrapper-16 {
+  align-items: center;
+  color: #a6f43f;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 24px;
+  justify-content: center;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -2px;
+  white-space: nowrap;
+  width: 91px;
+}
+
+.straight-talk .arrow-2 {
+  background-image: url(./arrow.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 13px;
+  left: 97px;
+  position: absolute;
+  top: 6px;
+  width: 13px;
+}
+
+.straight-talk .background-2 {
+  align-items: flex-start;
+  background-image: url(./background.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  height: 240px;
+  max-width: 1240px;
+  padding: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .container-12 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 30px 15px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .heading-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .save-mo-with-a {
+  align-items: center;
+  align-self: stretch;
+  color: transparent;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.straight-talk .text-wrapper-17 {
+  color: #a6f442;
+}
+
+.straight-talk .overlap-group-5 {
+  height: 50px;
+  position: relative;
+  top: -1px;
+  width: 560px;
+}
+
+.straight-talk .if-verizon-fios-home {
+  align-items: center;
+  color: #ffffff;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 48px;
+  justify-content: center;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 0;
+  width: 560px;
+}
+
+.straight-talk .horizontal-border-wrapper {
+  align-items: flex-start;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-color: #000000;
+  display: inline-flex;
+  left: 338px;
+  padding: 0px 0px 1px;
+  position: absolute;
+  top: 26px;
+}
+
+.straight-talk .horizontal-border {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: #5d5d5d;
+  height: 22.5px;
+  position: relative;
+  width: 55.63px;
+}
+
+.straight-talk .text-wrapper-18 {
+  align-items: center;
+  color: #ffffff;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 24px;
+  justify-content: center;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -2px;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.straight-talk .container-13 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 10px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .container-14 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .container-15 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 0px 20px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .container-16 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 46px;
+  padding: 0px 0px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .div-wrapper-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .let-s-get-started {
+  align-items: center;
+  align-self: stretch;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: -0.25px;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.straight-talk .container-17 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 155px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .container-18 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  max-width: 403.33px;
+  padding: 0px 15px;
+  position: relative;
+}
+
+.straight-talk .container-19 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 25px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .st-2 {
+  background-image: url(./st03221-homepagerefresh25-BYOP-HP-featuresectionicon-105x105-2x-ENG-desktop.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 104.01px;
+  max-width: 373.33px;
+  position: relative;
+  width: 105px;
+}
+
+.straight-talk .container-20 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 2.5px 0px 1.5px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .link-3 {
+  height: 21.5px;
+  position: relative;
+  width: 147.45px;
+}
+
+.straight-talk .overlap-group-6 {
+  height: 24px;
+  position: relative;
+  top: -2px;
+  width: 147px;
+}
+
+.straight-talk .get-a-new-phone {
+  align-items: center;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 24px;
+  justify-content: center;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 139px;
+}
+
+.straight-talk .chevron-left-png {
+  background-image: url(./chevron-left-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 138px;
+  position: absolute;
+  top: 7px;
+  width: 9px;
+}
+
+.straight-talk .st-3 {
+  background-image: url(./st03224-homepagerefresh25-plans-HP-featuresectionicon-105x105-2x-ENG-desktop.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 104.01px;
+  max-width: 373.33px;
+  position: relative;
+  width: 105px;
+}
+
+.straight-talk .link-4 {
+  height: 21.5px;
+  position: relative;
+  width: 189.5px;
+}
+
+.straight-talk .overlap-group-7 {
+  height: 24px;
+  position: relative;
+  top: -2px;
+  width: 190px;
+}
+
+.straight-talk .bring-your-own-phone {
+  align-items: center;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 24px;
+  justify-content: center;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 181px;
+}
+
+.straight-talk .chevron-left-png-2 {
+  background-image: url(./chevron-left-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 180px;
+  position: absolute;
+  top: 7px;
+  width: 9px;
+}
+
+.straight-talk .st-4 {
+  background-image: url(./st03224-homepagerefresh25-plans-HP-featuresectionicon-105x105-402x-ENG-desktop.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 104.5px;
+  max-width: 373.33px;
+  position: relative;
+  width: 105px;
+}
+
+.straight-talk .link-5 {
+  height: 21.5px;
+  position: relative;
+  width: 179.08px;
+}
+
+.straight-talk .overlap-group-8 {
+  height: 24px;
+  position: relative;
+  top: -2px;
+  width: 179px;
+}
+
+.straight-talk .text-wrapper-19 {
+  align-items: center;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 24px;
+  justify-content: center;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 170px;
+}
+
+.straight-talk .chevron-left-png-3 {
+  background-image: url(./chevron-left-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 170px;
+  position: absolute;
+  top: 7px;
+  width: 9px;
+}
+
+.straight-talk .frame-8 {
+  align-items: center;
+  align-self: stretch;
+  background-color: #f5f5f5;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 60px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .frame-9 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  padding: 33px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .text-wrapper-20 {
+  align-items: center;
+  align-self: stretch;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.straight-talk .looking-for-the-best-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .text-wrapper-21 {
+  align-items: center;
+  align-self: stretch;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.straight-talk .frame-10 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  padding: 0px 20px;
+  position: relative;
+  width: 100%;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.straight-talk .background-border-wrapper {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+  flex: 1;
+}
+
+.straight-talk .background-border {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dadada;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  height: 580px;
+  max-width: 272.5px;
+  padding: 1px 1px 17px;
+  position: relative;
+  width: 272.5px;
+}
+
+.straight-talk .background-3 {
+  align-self: stretch;
+  background-color: #000000;
+  border-bottom-style: solid;
+  border-bottom-width: 6px;
+  border-color: #ffffff;
+  border-radius: 20px 20px 0px 0px;
+  height: 189px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .background-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  left: 0;
+  padding: 0px 84.42px;
+  position: absolute;
+  top: -15px;
+  width: 270px;
+}
+
+.straight-talk .background-4 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--global-StraightTalk_Primary);
+  border-radius: 50px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 10px 12px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .text-wrapper-22 {
+  align-items: center;
+  align-self: stretch;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 13.5px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.straight-talk .frame-11 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 16px;
+  position: absolute;
+  top: 32px;
+  width: 238px;
+}
+
+.straight-talk .container-21 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-radius: 20px 20px 0px 0px;
+  display: flex;
+  flex: 0 0 auto;
+  padding: 2.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .margin-instance {
+  flex: 0 0 auto !important;
+  height: 28px !important;
+  position: relative !important;
+}
+
+.straight-talk .heading-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.straight-talk .text-wrapper-23 {
+  align-items: center;
+  color: #dbd4d4;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: -0.94px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.straight-talk .superscript-instance {
+  height: 12px !important;
+  left: 182px !important;
+  position: absolute !important;
+  top: -4px !important;
+  width: 15px !important;
+}
+
+.straight-talk .paragraph {
+  align-self: stretch;
+  height: 62px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .overlap-group-9 {
+  height: 47px;
+  position: relative;
+  top: 6px;
+  width: 109px;
+}
+
+.straight-talk .text-wrapper-24 {
+  align-items: center;
+  color: #ffffff;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 44px;
+  font-weight: 400;
+  height: 46px;
+  justify-content: center;
+  left: 0;
+  letter-spacing: -0.50px;
+  line-height: 46px;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+  width: 85px;
+}
+
+.straight-talk .superscript-mo {
+  align-items: center;
+  color: var(--global-StraightTalk_Primary);
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 20px;
+  justify-content: center;
+  left: 77px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 32px;
+}
+
+.straight-talk .container-22 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .text-wrapper-25 {
+  align-items: center;
+  color: #ffffff;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0.25px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.straight-talk .list-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 32px 10px 14.13px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .list {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-bottom: -0.01px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .item {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  padding: 0px 0px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .margin-2 {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  position: relative !important;
+}
+
+.straight-talk .margin-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0px 0px 0px 8px;
+  position: relative;
+}
+
+.straight-talk .container-23 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  height: 24px;
+  position: relative;
+}
+
+.straight-talk .div-4 {
+  align-items: center;
+  color: transparent;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: -0.30px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.straight-talk .text-wrapper-26 {
+  color: #000000;
+  letter-spacing: -0.05px;
+}
+
+.straight-talk .text-wrapper-27 {
+  color: #5d5d5d;
+  letter-spacing: -0.05px;
+}
+
+.straight-talk .margin-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0px 5px 0px 0px;
+  position: relative;
+}
+
+.straight-talk .success-png {
+  background-image: url(./success-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 24px;
+  position: relative;
+  width: 25px;
+}
+
+.straight-talk .text-wrapper-28 {
+  align-items: center;
+  color: #5d5d5d;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: -0.30px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.straight-talk .walmart-icon-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  height: 36px;
+  padding: 1.29px 0px 14.71px;
+  position: relative;
+}
+
+.straight-talk .walmart-icon {
+  background-image: url(./walmart-icon.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 20px;
+  position: relative;
+  width: 24px;
+}
+
+.straight-talk .container-24 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  height: 36px;
+  position: relative;
+}
+
+.straight-talk .text-wrapper-29 {
+  align-items: center;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: -0.30px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.straight-talk .margin-5 {
+  align-self: stretch;
+  position: relative;
+  width: 10.1px;
+}
+
+.straight-talk .margin-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 24px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .link-SEE-DETAILS-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 33.81px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .link-SEE-DETAILS {
+  align-items: flex-start;
+  background-color: #000000;
+  border-radius: 20px;
+  box-shadow: 5px 5px 20px #00000033;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 13.44px 34.24px;
+  position: relative;
+  width: 202.88px;
+}
+
+.straight-talk .text-wrapper-30 {
+  align-items: center;
+  color: #ffffff;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0.75px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.straight-talk .container-25 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  left: 0;
+  padding: 0px 75.2px;
+  position: absolute;
+  top: -15px;
+  width: 270px;
+}
+
+.straight-talk .text-wrapper-31 {
+  align-items: center;
+  color: #ffd958;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: -0.94px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.straight-talk .superscript-2 {
+  height: 12px !important;
+  left: 140px !important;
+  position: absolute !important;
+  top: -4px !important;
+  width: 15px !important;
+}
+
+.straight-talk .container-26 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 32px 10px 54.13px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .frame-wrapper {
+  align-self: stretch;
+  background-color: #000000;
+  border-bottom-style: solid;
+  border-bottom-width: 6px;
+  border-color: #ffffff;
+  border-radius: 20px 20px 0px 0px;
+  height: 190px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .frame-12 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 16px;
+  position: relative;
+  top: 32px;
+  width: 238px;
+}
+
+.straight-talk .text-wrapper-32 {
+  align-items: center;
+  color: #e7dccc;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: -0.94px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.straight-talk .element-mo-for-the {
+  align-items: center;
+  color: #ffffff;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0.25px;
+  line-height: 18px;
+  position: relative;
+  width: fit-content;
+}
+
+.straight-talk .container-27 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 32px 10px 122.13px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .text-wrapper-33 {
+  align-items: center;
+  color: #e6bda4;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: -0.94px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.straight-talk .container-28 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  padding: 32px 10px 162.13px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .first-GB-at-high-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  height: 48px;
+  padding: 0px 13.74px 0px 0px;
+  position: relative;
+}
+
+.straight-talk .first-GB-at-high {
+  align-items: center;
+  color: transparent;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: -0.30px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.straight-talk .overlap-wrapper {
+  height: 21.5px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .overlap {
+  height: 24px;
+  left: 559px;
+  position: relative;
+  top: -2px;
+  width: 100px;
+}
+
+.straight-talk .shop-plans {
+  align-items: center;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 24px;
+  justify-content: center;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 91px;
+}
+
+.straight-talk .chevron-left-png-4 {
+  background-image: url(./chevron-left-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 91px;
+  position: absolute;
+  top: 7px;
+  width: 9px;
+}
+
+.straight-talk .frame-13 {
+  align-items: center;
+  align-self: stretch;
+  background-color: #ffffff;
+  display: flex;
+  flex: 0 0 auto;
+  padding: 42px 59.5px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .container-29 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 398.01px;
+  max-width: 413.33px;
+  padding: 0px 15px;
+  position: relative;
+  width: 413.33px;
+}
+
+.straight-talk .container-30 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .why-choose-straight {
+  align-items: center;
+  align-self: stretch;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.straight-talk .link-learn-more-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 12px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .link-learn-more {
+  align-items: flex-start;
+  background-color: #000000;
+  border-radius: 20px;
+  box-shadow: 5px 5px 20px #00000033;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 13.44px 34.24px;
+  position: relative;
+}
+
+.straight-talk .container-31 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 398.01px;
+  padding: 0px 15px;
+  position: relative;
+  width: 100%;
+  flex: 1;
+}
+
+.straight-talk .container-32 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 203px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .container-33 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  max-width: 398.33px;
+  padding: 0px 15px;
+  position: relative;
+}
+
+.straight-talk .auto-flex-wrapper {
+  align-self: stretch;
+  height: 173px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .auto-flex {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 173px;
+  width: 368px;
+}
+
+.straight-talk .st-5 {
+  background-image: url(./st03225-homepagerefresh25-coverage-HP-newreasonstobuyicon-75x75.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 45px;
+  width: 45px;
+}
+
+.straight-talk .container-34 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  position: relative;
+  width: 368px;
+}
+
+.straight-talk .text-wrapper-34 {
+  align-items: center;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.straight-talk .container-35 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 8px;
+  position: relative;
+  width: 368px;
+}
+
+.straight-talk .text-wrapper-35 {
+  align-items: center;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.straight-talk .container-36 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 12px;
+  position: relative;
+  width: 368px;
+}
+
+.straight-talk .text-wrapper-36 {
+  align-items: center;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.straight-talk .container-37 {
+  align-self: stretch;
+  height: 137px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .auto-flex-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 137px;
+  width: 368px;
+}
+
+.straight-talk .st-6 {
+  background-image: url(./st03228-homepagerefresh25-nocontracts-HP-newreasonstobuyicon-75x75.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 45px;
+  width: 45px;
+}
+
+.straight-talk .container-38 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  min-height: 195.01px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .container-39 {
+  align-self: stretch;
+  height: 165px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .auto-flex-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 165px;
+  width: 368px;
+}
+
+.straight-talk .walmart {
+  background-image: url(./walmart-new1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 45px;
+  width: 45px;
+}
+
+.straight-talk .get-a-free-walmart-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 368px;
+}
+
+.straight-talk .st-7 {
+  background-image: url(./st03234-homepagerefresh25-unlimiteddata-HP-newreasonstobuyicon-75x75.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 45px;
+  width: 45px;
+}
+
+.straight-talk .text-wrapper-37 {
+  align-items: center;
+  align-self: stretch;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 38.6px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: relative;
+  text-align: center;
+}
+
+.straight-talk .container-40 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 32px;
+  justify-content: center;
+  padding: 0px 0px 40px;
+  position: relative;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.straight-talk .container-41 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .background-5 {
+  align-items: flex-end;
+  background-color: #ffffff;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  height: 624px;
+  position: relative;
+  width: 350px;
+}
+
+.straight-talk .background-6 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--global-StraightTalk_Primary);
+  border-radius: 20px 20px 0px 0px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 2.5px 10px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .text-wrapper-38 {
+  align-items: center;
+  align-self: stretch;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0.25px;
+  line-height: 23px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.straight-talk .heading-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 70px;
+  padding: 15px 30px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .text-wrapper-39 {
+  align-items: center;
+  align-self: stretch;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.straight-talk .container-42 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-left: -15.00px;
+  padding: 20px 0px;
+  position: relative;
+  width: 365px;
+}
+
+.straight-talk .container-43 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  margin-right: -15.00px;
+  position: relative;
+  width: 380px;
+}
+
+.straight-talk .rectangle {
+  align-self: stretch;
+  max-width: 95px;
+  position: relative;
+  width: 95px;
+}
+
+.straight-talk .container-44 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  max-width: 190px;
+  position: relative;
+  width: 190px;
+}
+
+.straight-talk .phone-thumbnail {
+  background-image: url(./phone-thumbnail-2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 225px;
+  max-width: 190px;
+  position: relative;
+  width: 170.92px;
+}
+
+.straight-talk .margin-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 85px;
+  padding: 0px 106.27px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .container-45 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  max-width: 137.46px;
+  padding: 0px 15px;
+  position: relative;
+}
+
+.straight-talk .container-46 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .element {
+  align-items: center;
+  align-self: stretch;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0.25px;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.straight-talk .text-wrapper-40 {
+  letter-spacing: 0.03px;
+}
+
+.straight-talk .text-wrapper-41 {
+  letter-spacing: 0.03px;
+  text-decoration: line-through;
+}
+
+.straight-talk .margin-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 16px 100px 8px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .link-SEE-DETAILS-2 {
+  align-items: flex-start;
+  background-color: var(--global-StraightTalk_Primary);
+  border-radius: 20px;
+  box-shadow: 5px 5px 20px #00000033;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 13.19px 13.44px 12.81px;
+  position: relative;
+  width: 150px;
+}
+
+.straight-talk .background-7 {
+  background-color: #ffffff;
+  border-radius: 20px;
+  height: 624px;
+  position: relative;
+  width: 350px;
+}
+
+.straight-talk .auto-flex-4 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: -15px;
+  min-height: 522px;
+  position: relative;
+  width: 365px;
+}
+
+.straight-talk .background-8 {
+  align-items: center;
+  background-color: var(--global-StraightTalk_Primary);
+  border-radius: 20px 20px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  padding: 2.5px 10px;
+  position: relative;
+  width: 350px;
+}
+
+.straight-talk .text-wrapper-42 {
+  align-items: center;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 11px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0.25px;
+  line-height: 23px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.straight-talk .container-47 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 70px;
+  padding: 15px 30px 0px;
+  position: relative;
+  width: 350px;
+}
+
+.straight-talk .container-48 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 0px;
+  position: relative;
+  width: 365px;
+}
+
+.straight-talk .phone-thumbnail-2 {
+  background-image: url(./image.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 225px;
+  max-width: 190px;
+  position: relative;
+  width: 170.92px;
+}
+
+.straight-talk .overlap-2 {
+  height: 159px;
+  position: relative;
+  width: 365px;
+}
+
+.straight-talk .container-49 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 365px;
+}
+
+.straight-talk .container-50 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  max-width: 380px;
+  padding: 0px 15px;
+  position: relative;
+}
+
+.straight-talk .container-51 {
+  align-self: stretch;
+  height: 42.29px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .text-wrapper-43 {
+  align-items: center;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 20px;
+  justify-content: center;
+  left: 24px;
+  letter-spacing: 0.25px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+  width: 271px;
+}
+
+.straight-talk .overlap-group-10 {
+  height: 24px;
+  left: 39px;
+  position: absolute;
+  top: 19px;
+  width: 241px;
+}
+
+.straight-talk .text-wrapper-44 {
+  align-items: center;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 20px;
+  justify-content: center;
+  left: 0;
+  letter-spacing: 0.25px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 147px;
+}
+
+.straight-talk .smart-pay-logo {
+  background-image: url(./smart-pay-logo.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 22px;
+  left: 147px;
+  position: absolute;
+  top: 2px;
+  width: 94px;
+}
+
+.straight-talk .margin-9 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 15px;
+  padding: 16px 100px 8px;
+  position: absolute;
+  top: 85px;
+  width: 350px;
+}
+
+.straight-talk .phone-thumbnail-3 {
+  background-image: url(./phone-thumbnail.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 225px;
+  max-width: 190px;
+  position: relative;
+  width: 170.92px;
+}
+
+.straight-talk .container-52 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 85px;
+  margin-left: -15.00px;
+  position: relative;
+  width: 365px;
+}
+
+.straight-talk .text-wrapper-45 {
+  align-items: center;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  height: 20px;
+  justify-content: center;
+  left: 20px;
+  letter-spacing: 0.25px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+  width: 278px;
+}
+
+.straight-talk .text-wrapper-46 {
+  align-items: center;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 28px;
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
+
+.straight-talk .frame-14 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 34px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .container-53 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+  position: relative;
+  width: 590px;
+}
+
+.straight-talk .ST-HP-refresh {
+  background-image: url(./ST-HP-refresh-tablets-card.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 160.28px;
+  max-width: 590px;
+  position: relative;
+  width: 589.99px;
+}
+
+.straight-talk .container-54 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 266px;
+  padding: 0px 0px 1.5px;
+  position: absolute;
+  top: 30px;
+  width: 272px;
+}
+
+.straight-talk .text-wrapper-47 {
+  align-items: center;
+  align-self: stretch;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.straight-talk .container-55 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 20px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .text-wrapper-48 {
+  align-items: center;
+  align-self: stretch;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.straight-talk .link-6 {
+  height: 22.5px;
+  position: relative;
+  width: 100.79px;
+}
+
+.straight-talk .text-wrapper-49 {
+  align-items: center;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  height: 24px;
+  justify-content: center;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: -2px;
+  white-space: nowrap;
+  width: 82px;
+}
+
+.straight-talk .chevron-left-png-5 {
+  background-image: url(./chevron-left-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 16px;
+  left: 92px;
+  position: absolute;
+  top: 5px;
+  width: 9px;
+}
+
+.straight-talk .ST-HP-refresh-2 {
+  background-image: url(./ST-HP-refresh-hotspot-card-prod.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 160.28px;
+  max-width: 590px;
+  position: relative;
+  width: 589.99px;
+}
+
+.straight-talk .container-56 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 266px;
+  padding: 0px 0px 1.5px;
+  position: absolute;
+  top: 30px;
+  width: 215px;
+}
+
+.straight-talk .ST-HP-refresh-home {
+  background-image: url(./ST-HP-refresh-home-internet-card-prod.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 160.28px;
+  max-width: 590px;
+  position: relative;
+  width: 589.99px;
+}
+
+.straight-talk .container-57 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 266px;
+  padding: 0px 0px 1.5px;
+  position: absolute;
+  top: 30px;
+  width: 262px;
+}
+
+.straight-talk .ST-HP-refresh-3 {
+  background-image: url(./ST-HP-refresh-accessories-card-prod.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 160.28px;
+  max-width: 590px;
+  position: relative;
+  width: 589.99px;
+}
+
+.straight-talk .container-58 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 266px;
+  padding: 0px 0px 1.5px;
+  position: absolute;
+  top: 30px;
+  width: 258px;
+}
+
+.straight-talk .text-wrapper-50 {
+  align-items: center;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 32px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: -0.25px;
+  line-height: 36px;
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
+
+.straight-talk .container-59 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4.55e-13px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .container-60 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .background-9 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #ffffff;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 40px 33.5px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .container-61 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  max-width: 1270px;
+  position: relative;
+}
+
+.straight-talk .horizontal-border-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.5px;
+  border-color: #b2b2b2;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 0.5px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .border {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.5px;
+  border-color: transparent;
+  border-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0),
+      rgb(178, 178, 178) 0%
+    )
+    1;
+  border-top-style: solid;
+  border-top-width: 0.5px;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 40.5px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .button-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .margin-10 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  padding: 3px 10px 0px;
+  position: relative;
+}
+
+.straight-talk .container-62 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 22.63px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .text-wrapper-51 {
+  align-items: center;
+  align-self: stretch;
+  color: #000000;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.straight-talk .margin-11 {
+  align-self: stretch !important;
+  flex: 0 0 auto !important;
+  margin-bottom: -0.01px !important;
+  position: relative !important;
+}
+
+.straight-talk .background-10 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #0053e2;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 48.5px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .container-63 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 413.33px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .container-64 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  max-width: 413.33px;
+  padding: 0px 15px;
+  position: relative;
+}
+
+.straight-talk .container-65 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .container-66 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  max-width: 191.66px;
+  padding: 0px 15px;
+  position: relative;
+}
+
+.straight-talk .container-67 {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .text-wrapper-52 {
+  align-items: center;
+  align-self: stretch;
+  color: #ffffff;
+  display: flex;
+  font-family: "Open Sans-Regular", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  justify-content: center;
+  letter-spacing: 0.50px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: right;
+}
+
+.straight-talk .walmart-store-logo-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 34.22px 0px 33px;
+  position: relative;
+  width: 100%;
+}
+
+.straight-talk .walmart-store-logo {
+  background-image: url(./walmart-store-logo.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 25px;
+  max-width: 161.66px;
+  position: relative;
+  width: 130px;
+}
+
+.straight-talk .container-68 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  max-width: 413.33px;
+  padding: 47px 15px;
+  position: relative;
+}
+
+.straight-talk .find-your-local-wrapper {
+  align-items: flex-start;
+  background-color: #ffffff;
+  border-radius: 20px;
+  box-shadow: 5px 5px 20px #00000033;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 13.19px 0px 12.81px;
+  position: relative;
+  width: 210px;
+}
+
+/* Responsive Design for Different Laptop Screens */
+
+/* Large laptops and desktops (1440px and above) */
+@media (min-width: 1440px) {
+  .straight-talk .frame {
+    width: 100%;
+  }
+  
+  .straight-talk .div {
+    width: 100%;
+  }
+}
+
+/* Standard laptops (1024px to 1439px) */
+@media (max-width: 1439px) {
+  .straight-talk .frame {
+    width: 100%;
+    padding: 0 20px;
+  }
+  
+  .straight-talk .div {
+    width: 100%;
+  }
+  
+  .straight-talk .header-menu {
+    padding: 24px 20px;
+  }
+  
+  .straight-talk .frame-6 {
+    max-width: 100%;
+    padding: 20px;
+  }
+  
+  .straight-talk .container-2 {
+    flex: 1.5;
+    min-width: 350px;
+  }
+  
+  .straight-talk .container-4 {
+    flex: 1;
+    min-width: 280px;
+  }
+  
+  .straight-talk .frame-7 {
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .straight-talk .frame-10 {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .straight-talk .background-border-wrapper {
+    min-width: 280px;
+  }
+}
+
+/* Medium laptops (1200px to 1366px) */
+@media (max-width: 1366px) {
+  .straight-talk .container-3 {
+    width: 100%;
+    max-width: 350px;
+    padding: 25px;
+  }
+  
+  .straight-talk .container-5 {
+    width: 100%;
+    max-width: 350px;
+    padding: 25px 20px;
+  }
+  
+  .straight-talk .text-wrapper-5 {
+    font-size: 28px;
+    line-height: 32px;
+  }
+  
+  .straight-talk .get-a-free-samsung {
+    font-size: 28px;
+    line-height: 32px;
+  }
+}
+
+/* Small laptops (1024px to 1199px) */
+@media (max-width: 1199px) {
+  .straight-talk .frame-4 {
+    gap: 20px;
+  }
+  
+  .straight-talk .text-wrapper-3 {
+    font-size: 10px;
+  }
+  
+  .straight-talk .frame-6 {
+    padding: 0 20px;
+  }
+  
+  .straight-talk .frame-7 {
+    padding: 0 20px;
+  }
+  
+  .straight-talk .container-wrapper {
+    min-width: 280px;
+  }
+  
+  .straight-talk .background-2 {
+    padding: 20px;
+  }
+  
+  .straight-talk .container-32 {
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .straight-talk .container-33 {
+    max-width: 100%;
+  }
+}
+
+/* Very small laptops and large tablets (768px to 1023px) */
+@media (max-width: 1023px) {
+  .straight-talk .header-menu {
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .straight-talk .div {
+    gap: 20px;
+  }
+  
+  .straight-talk .frame-2 {
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+  }
+  
+  .straight-talk .frame-4 {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+  }
+  
+  .straight-talk .p {
+    font-size: 20px;
+    text-align: center;
+    white-space: normal;
+  }
+  
+  .straight-talk .frame-6 {
+    flex-direction: column;
+    align-items: center;
+    gap: 30px;
+  }
+  
+  .straight-talk .container-2,
+  .straight-talk .container-4 {
+    width: 100%;
+  }
+  
+  .straight-talk .container-3 {
+    position: static;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .straight-talk .container-5 {
+    position: static;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .straight-talk .frame-7 {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .straight-talk .container-17 {
+    flex-direction: column;
+    gap: 30px;
+    height: auto;
+  }
+  
+  .straight-talk .container-18 {
+    max-width: 100%;
+  }
+  
+  .straight-talk .frame-10 {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .straight-talk .background-border-wrapper {
+    width: 100%;
+  }
+  
+  .straight-talk .container-40 {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .straight-talk .container-41 {
+    width: 100%;
+  }
+  
+  .straight-talk .frame-14 .frame-2 {
+    flex-direction: column;
+    gap: 20px;
+  }
+  
+  .straight-talk .container-53 {
+    width: 100%;
+  }
+}
+
+/* Mobile landscape and small screens (480px to 767px) */
+@media (max-width: 767px) {
+  .straight-talk .join-today-call-us {
+    font-size: 14px;
+    white-space: normal;
+    text-align: center;
+  }
+  
+  .straight-talk .screenshot {
+    width: 100px;
+    height: 65px;
+  }
+  
+  .straight-talk .frame-3 {
+    flex-direction: column;
+    gap: 5px;
+  }
+  
+  .straight-talk .frame-4 {
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .straight-talk .text-wrapper-4 {
+    font-size: 13px;
+  }
+  
+  .straight-talk .p {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  
+  .straight-talk .text-wrapper-5,
+  .straight-talk .get-a-free-samsung {
+    font-size: 24px;
+    line-height: 28px;
+  }
+  
+  .straight-talk .treat-yourself-to,
+  .straight-talk .this-offer-is {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  
+  .straight-talk .container-7,
+  .straight-talk .container-8,
+  .straight-talk .container-10 {
+    position: static;
+    width: 100%;
+    padding: 15px;
+    text-align: center;
+  }
+  
+  .straight-talk .moto-g,
+  .straight-talk .st,
+  .straight-talk .interiorpage {
+    position: static;
+    width: 100%;
+    height: 150px;
+    margin-bottom: 15px;
+  }
+  
+  .straight-talk .text-wrapper-20 {
+    font-size: 20px;
+  }
+  
+  .straight-talk .text-wrapper-37 {
+    font-size: 28px;
+    line-height: 36px;
+  }
+  
+  .straight-talk .text-wrapper-46,
+  .straight-talk .text-wrapper-50 {
+    font-size: 20px;
+    line-height: 24px;
+  }
+}
+
+/* Very small screens (below 480px) */
+@media (max-width: 479px) {
+  .straight-talk {
+    gap: 15px;
+  }
+  
+  .straight-talk .join-us {
+    padding: 8px;
+  }
+  
+  .straight-talk .join-today-call-us {
+    font-size: 12px;
+  }
+  
+  .straight-talk .header-menu {
+    padding: 15px 10px;
+  }
+  
+  .straight-talk .screenshot {
+    width: 80px;
+    height: 50px;
+  }
+  
+  .straight-talk .background {
+    padding: 15px 10px;
+  }
+  
+  .straight-talk .p {
+    font-size: 16px;
+    line-height: 20px;
+  }
+  
+  .straight-talk .container-wrapper {
+    min-width: 250px;
+  }
+  
+  .straight-talk .background-border-wrapper {
+    width: 100%;
+  }
+  
+  .straight-talk .container-41 {
+    width: 100%;
+  }
+}
+
+/* Ensure all containers are properly contained */
+.straight-talk * {
+  box-sizing: border-box;
+}
+
+/* Fix for overflow issues */
+.straight-talk .frame-6,
+.straight-talk .frame-7,
+.straight-talk .frame-10,
+.straight-talk .container-40 {
+  overflow-x: auto;
+}
+
+/* Ensure images are responsive */
+.straight-talk img,
+.straight-talk [class*="background-image"],
+.straight-talk [style*="background-image"] {
+  max-width: 100%;
+  height: auto;
+}

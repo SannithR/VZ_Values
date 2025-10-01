@@ -1,10 +1,12 @@
 import './App.css';
+import Total from './Total/Total/Total';
+import StraightTalk from './StraightTalk/StraightTalk/StraightTalk';
 
-// import "../src/styleguide1.css";
+import "../src/styleguide1.css";
 
 function App() {
   return (
-  <h1 className="App">Basic structure</h1>
+<StraightTalk/>
   );
 }
 
