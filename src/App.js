@@ -6,7 +6,7 @@ import "../src/styleguide1.css";
 
 function App() {
   return (
-<StraightTalk/>
+<Total/>
   );
 }
 

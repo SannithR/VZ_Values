@@ -161,45 +161,7 @@ export default function Total () {
               </div>
 
               <div className="background-3">
-                <div className="container-5">
-                  <div className="container-6">
-                    <div className="div-2">
-                      <div className="div-3">
-                        <p className="get-iphone-with">
-                          Get iPhone 13 with 5G
-                          <br />
-                          on us
-                        </p>
-                      </div>
-
-                      <div className="overlap-group-wrapper">
-                        <div className="overlap-group-2">
-                          <p className="when-you-switch-to">
-                            When you switch to the Total 5G or 5G+ Unlimited
-                            <br />
-                            3-month plan.
-                          </p>
-
-                          <ButtonMoreInformationAboutBundlesAndDiscountWithA5YearPriceGuarantee className="button-more" />
-                        </div>
-                      </div>
-
-                      <div className="div-wrapper-2">
-                        <div className="container-7">
-                          <div className="link-shop-deal">
-                            <div className="text-wrapper-13">Shop deal</div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-
-                  <div className="picture-wrapper">
-                    <div className="div-wrapper-2">
-                      <div className="homepage" />
-                    </div>
-                  </div>
-                </div>
+             
               </div>
 
               <div className="div-4">
@@ -1135,39 +1097,7 @@ export default function Total () {
 
               <div className="background-10">
                 <div className="container-46">
-                  <div className="container-47">
-                    <div className="div-2">
-                      <div className="div-3">
-                        <div className="text-wrapper-56">
-                          Limited-time offer
-                        </div>
-                      </div>
-
-                      <div className="div-3">
-                        <Get2MonthsFree5GHomeInternet className="icon-instance-node-2" />
-                      </div>
-
-                      <div className="overlap-group-wrapper">
-                        <div className="overlap-group-11">
-                          <p className="when-bundled-with">
-                            When bundled with any phone plan. First month
-                            <br />
-                            $45. Router sold separately.
-                          </p>
-
-                          <ButtonMoreInformationAboutBundlesAndDiscountWithA5YearPriceGuarantee className="button-bundle-save" />
-                        </div>
-                      </div>
-
-                      <div className="div-wrapper-2">
-                        <div className="container-7">
-                          <div className="link-learn-more">
-                            <div className="text-wrapper-57">Shop deal</div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
+               
 
                   <div className="picture-tw-wrapper">
                     <div className="picture-2" />
